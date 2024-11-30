@@ -21,9 +21,7 @@ export default function Home() {
       </main>
 
       {/* Footer */}
-      <footer className="text-center p-4 md:p-6 bg-gray-900 text-white">
-        © {new Date().getFullYear()} TrueEcho. All rights reserved.
-      </footer>
+      
     </>
   );
 }
