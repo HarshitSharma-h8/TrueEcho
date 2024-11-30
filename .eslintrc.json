@@ -4,3 +4,7 @@
 //     "@typescript-eslint/no-explicit-any": "error"
 //   }
 // }
+
+{
+  "extends": "next/core-web-vitals"
+}
