@@ -4,6 +4,7 @@ import Link from "next/link";
 import { signOut, useSession } from "next-auth/react";
 import { Button } from "@/components/ui/button";
 import { User } from "next-auth";
+import { MessageSquare } from "lucide-react";
 
 const Navbar = () => {
   const { data: session } = useSession();
@@ -11,9 +12,9 @@ const Navbar = () => {
 
   return (
     <nav className="p-4 md:p-6 shadow-md bg-gray-900 text-white">
-      <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
-        <a href="#" className="text-xl font-bold mb-4 md:mb-0">
-        TrueEcho
+      <div className="container mx-auto flex  md:flex-row justify-between items-center">
+        <a href="#" className="text-xl font-bold mb-4 md:mb-0 flex items-center gap-2">
+        <MessageSquare/> TrueEcho
         </a>
         {session ? (
           <>
