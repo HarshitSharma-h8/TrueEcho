@@ -1,6 +1,9 @@
 # TrueEcho
 ### Anonymous Feedback Web Application
 
+
+![image](https://github.com/user-attachments/assets/6f9e1d1b-cb99-437e-a4f3-63a622a86e89)
+
 [![TrueEcho Logo](https://via.placeholder.com/100)](https://true-echo-iota.vercel.app/)
 
 **Empowering Honest Conversations, One Echo at a Time.**
