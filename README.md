@@ -2,9 +2,8 @@
 ### Anonymous Feedback Web Application
 
 
-![image](https://github.com/user-attachments/assets/6f9e1d1b-cb99-437e-a4f3-63a622a86e89)
+![image](https://github.com/user-attachments/assets/6f9e1d1b-cb99-437e-a4f3-63a622a86e89/100)
 
-[![TrueEcho Logo](https://via.placeholder.com/100)](https://true-echo-iota.vercel.app/)
 
 **Empowering Honest Conversations, One Echo at a Time.**
 
@@ -37,32 +36,4 @@ TrueEcho is a web-based platform designed to facilitate **anonymous feedback**. 
 * **Enhanced Decision Making**: Data-driven choices based on anonymous inputs.
 * **Community Building**: Foster open communication within teams or communities.
 
-## Contributing to TrueEcho
----------------------------
 
-### Are You a Developer, Designer, or Enthusiast?
-
-We welcome contributions to enhance and expand TrueEcho's capabilities. Whether it's reporting bugs, suggesting new features, or participating in our open-source development process, every input matters.
-
-* **Browse Our Issues**: [Link to GitHub Issues or similar]
-* **Join the Discussion**: [Link to Community Forum or Chat]
-* **Contribute Code**: [Link to GitHub Repository or Contribution Guidelines]
-
-## Stay Updated
-----------------
-
-* **Follow Us**: [Twitter] | [LinkedIn] | [Facebook]
-* **Blog**: [Link to TrueEcho Blog for updates, tutorials, and insights]
-* **Newsletter**: [Subscription Link for periodic news and feature updates]
-
-## License
--------
-
-TrueEcho is licensed under [License Name, e.g., MIT License]. See [LICENSE](LICENSE) for more information.
-
-## Contact Us
---------------
-
-For feedback, suggestions, or to learn more about TrueEcho, please reach out to us at [contact@trueecho.app](mailto:contact@trueecho.app).
-
-**Thank you for being part of the TrueEcho community!**
