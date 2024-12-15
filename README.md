@@ -2,7 +2,7 @@
 ### Anonymous Feedback Web Application
 
 
-![image](https://github.com/user-attachments/assets/6f9e1d1b-cb99-437e-a4f3-63a622a86e89/100)
+![image](https://github.com/user-attachments/assets/6f9e1d1b-cb99-437e-a4f3-63a622a86e89)
 
 
 **Empowering Honest Conversations, One Echo at a Time.**
