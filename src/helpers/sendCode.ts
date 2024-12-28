@@ -1,8 +1,8 @@
 import nodemailer from "nodemailer";
-import VerificationEmail from "../../email/VerificationEmail";
+// import VerificationEmail from "../../email/VerificationEmail";
 
 
-export default async function handler(
+export default async function sendCode(
   email: string,
   username: string,
   verifyCode: string
