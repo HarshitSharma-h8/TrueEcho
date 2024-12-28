@@ -23,9 +23,9 @@ export default async function sendCode(
 
     // Set email options
     const mailOptions = {
-      from: `"Your Name" <${process.env.GMAIL_USER}>`,
+      from: `"TrueEcho" <${process.env.GMAIL_USER}>`,
       to: email, // Replace with the recipient's email
-      subject: "New Form Submission",
+      subject: "Your Verification Code",
       html: `
         <p style="font-size: 32px; font-weight: bold;">Hi ${username},</p>
         <p>Thank you for registering. Please use the following verification code to complete your registration:</p>
